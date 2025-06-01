@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  name: 'devops'
+  name: 'agent1'
 
 steps:
 - script: echo Hello, world!
